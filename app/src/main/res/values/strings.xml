@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crypto-Tracker</string>
+    <string name="header_asks">Ask</string>
+    <string name="header_bids">Bid</string>
+    <string name="header_amount">Amount</string>
+    <string name="loading_data">Loading API Data…</string>
+    <string name="last_label">BTC Price:</string>
+    <string name="time_label">Time:</string>
+    <string name="high_label">24 Hour High:</string>
+    <string name="low_label">24 Hour Low:</string>
+    <string name="vwap_label">Weighted Average:</string>
+    <string name="volume_label">24 Hours Volume:</string>
+    <string name="bid_label">Highest Buy Order:</string>
+    <string name="ask_label">Lowest Sell Order:</string>
+    <string name="open_label">Opening Price:</string>
+    <string name="value_format">$%1s</string>
+    <string name="price_drop_label">Price Drop Threshold</string>
+    <string name="price_input_label">Enter Price</string>
+    <string name="enable_button_label">Apply</string>
+    <string name="cherryBlossomStudio">Cherry Blossom Studio</string>
+</resources>
+
